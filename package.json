@@ -10,11 +10,22 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "@react-native-community/datetimepicker": "3.5.2",
     "expo": "~43.0.2",
+    "expo-contacts": "^10.0.3",
+    "expo-document-picker": "~10.0.3",
+    "expo-sqlite": "~10.0.3",
     "expo-status-bar": "~1.1.0",
+    "firebase": "^9.6.1",
+    "gapi-script": "^1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-document-picker": "^7.1.2",
+    "react-native-dropdown-picker": "^5.2.3",
+    "react-native-modal-datetime-picker": "^13.0.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
